@@ -33,9 +33,11 @@ This project focuses on building an Uber ride analytics dashboard using Google C
 ## Dashboard Link
 [🚀 Click here to view the dashboard](https://lookerstudio.google.com/reporting/df205327-8c5e-4d80-99b7-9ecf848a2ed4)
 
-## Project Images
+## Architecture
 ![Placeholder for ETL Process](/Untitled%20Diagram.drawio%20(1).png)
+## Dashboard Image
 ![Placeholder for Dashboard](/Uber_Dashboard_by_Jugal_Patel%20(2)_page-0001.jpg)
+## Data Model
 ![Placeholder for Data Model used](/data_model.jpeg)
 
 ## Setup & Execution
